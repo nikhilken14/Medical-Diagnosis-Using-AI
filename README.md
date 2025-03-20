@@ -2,10 +2,10 @@ Your project, Medical Diagnosis Using AI, utilizes machine learning models to pr
 It is built using Python, Streamlit for the frontend, and trained models stored as .sav files. The dataset includes various medical records for training and testing.
 
 Features:
-    User-friendly interface for disease prediction
-    Pre-trained machine learning models for accuracy
-    Supports multiple diseases
-    Integrated with Streamlit for interactive diagnosis
+    User-friendly interface for disease prediction.
+    Pre-trained machine learning models for accuracy.
+    Supports multiple diseases.
+    Integrated with Streamlit for interactive diagnosis.
 
     
 How to Use:
