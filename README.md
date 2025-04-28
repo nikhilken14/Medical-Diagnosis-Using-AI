@@ -1,4 +1,4 @@
-Your project, Medical Diagnosis Using AI, utilizes machine learning models to predict diseases such as diabetes, heart disease, thyroid issues, and more. 
+This project, Medical Diagnosis Using AI, utilizes machine learning models to predict diseases such as diabetes, heart disease, thyroid issues, and more. 
 It is built using Python, Streamlit for the frontend, and trained models stored as .sav files. The dataset includes various medical records for training and testing.
 
 Features:
