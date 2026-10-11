@@ -1,23 +1,3 @@
-<<<<<<< HEAD
-This project, Medical Diagnosis Using AI, utilizes machine learning models to predict diseases such as diabetes, heart disease, thyroid issues, and more. 
-It is built using Python, Streamlit for the frontend, and trained models stored as .sav files. The dataset includes various medical records for training and testing.
-
-Features:
-    User-friendly interface for disease prediction.
-    Pre-trained machine learning models for accuracy.
-    Supports multiple diseases.
-    Integrated with Streamlit for interactive diagnosis.
-
-    
-How to Use:
-    Run app.py (streamlit run app.py)
-    Enter patient details and get predictions
-  
-Future Enhancements:
-    Improve model accuracy with more data
-    Add explainable AI for better insights
-    Expand to more diseases
-=======
 # MediCareAI — website-style screening demo
 
 A Streamlit frontend in light teal styling, a home page with five service cards, a four-step guide, a dark footer, and a dedicated screening workspace.
@@ -91,4 +71,3 @@ python verify.py
 ```
 
 Validated here using Streamlit's AppTest: home and navigation rendered; all five forms rejected missing data; all five original models predicted using sample records; clearing removed inputs and results. This verifies application behavior, not diagnostic accuracy. CSS includes narrow-screen layout adjustments; exact browser rendering can vary.
->>>>>>> 6422686 (changes done in frontend)
